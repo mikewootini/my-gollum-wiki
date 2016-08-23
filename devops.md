@@ -1,11 +1,11 @@
-# Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources.
+# Awesome DevOps
+A curated list of amazingly awesome open source DevOps and Sysadmin resources.
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 ## Table of Contents
-* [Awesome Sysadmin](#awesome-sysadmin)
+* [Awesome DevOps and Sysadmin](#awesome-devops)
   * [Backups](#backups)
   * [Build Automation](#build-automation)
   * [ChatOps](#chatops)
